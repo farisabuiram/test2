@@ -1,1 +1,1 @@
-wffvassdf
+Hello from tests2.txt file
