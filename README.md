@@ -1,5 +1,4 @@
 # test2
 
 ## Image test
-![CodersRank Image](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=murznn)
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=murznn" width="128"/>
+![image](https://user-images.githubusercontent.com/113234411/205038660-b2a5c7d9-9e61-4b39-8cf1-d0f00281055b.png)
